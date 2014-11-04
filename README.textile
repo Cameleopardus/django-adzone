@@ -1,6 +1,6 @@
 h1. django-adzone Documentation
 
-© Copyright 2013 Andre Engelbrecht. All Rights Reserved.
+Updated fork of Django-Adzone by Andre Engelbrecht.
 
 h2. License
 
